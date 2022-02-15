@@ -1,8 +1,9 @@
 # Fuzzy Inverted Pendulum
 The inverted pendulum system is an example commonly found in control system textbooks and research literature. This pendulum is unstable and without additional help will fall over. It is inverted to a cart that can only move along the x-axis. The goal is to keep the pendulum fixed on the top of the cart in reverse.  
   
-Basically, this project consists of an inverted pendulum simulator and a controller which work based on a **Fuzzy Expert System** algorithm.   
-This project was implemented using **pygame** and **pyfuzzy** in *python2.7*.
+Basically, this project consists of an inverted pendulum simulator and a controller which work based on a **Fuzzy Expert System** algorithm.  
+  
+This project was implemented using **pygame** in *python2.7*.
 
 ## Fuzzy Expert System
 The *FuzzyController* class in **controller.py** module, loads an *FCL* file to decide how much force needs to be applied to the cart in each cycle of simulation.
