@@ -22,7 +22,7 @@ FES *output* is:
 > **force**: force applied on cart, *newton*
 
 ### Fuzzy sets
-Defined fuzzy sets can be found in ![this directory](https://github.com/hedzd/Fuzzy-inverted-pendulum/tree/main/Fuzzy%20sets%20images)
+Defined fuzzy sets can be found in [this directory](https://github.com/hedzd/Fuzzy-inverted-pendulum/tree/main/Fuzzy%20sets%20images)
 
 ## FES implementation
 As any other fuzzy expert system, the controller is consisted of 3 main parts:  
