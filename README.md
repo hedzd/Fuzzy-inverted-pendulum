@@ -39,12 +39,8 @@ As any other fuzzy expert system, the controller is consisted of 3 main parts:
     $ sudo pip install virtualenv
     $ virtualenv -p python2.7 venv
     $ source venv/Scripts/activate
-    $ ./install-deps.sh
-
-### Run
-
-    $ ./main.py
-
+    
+    then install required libraries
 
 ### Physical parameters of simulator
 
